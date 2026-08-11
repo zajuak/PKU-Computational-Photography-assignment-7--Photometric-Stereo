@@ -1,0 +1,12 @@
+
+-------------------------
+ballPNG    | 1.93      
+bearPNG    | 10.08     
+buddhaPNG  | 11.19     
+catPNG     | 6.77      
+cowPNG     | 15.15     
+gobletPNG  | 12.77     
+harvestPNG | 22.30     
+pot1PNG    | 7.65      
+pot2PNG    | 11.19     
+readingPNG | 14.19   
