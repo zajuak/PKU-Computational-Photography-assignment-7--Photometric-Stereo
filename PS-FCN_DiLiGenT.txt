@@ -1,0 +1,41 @@
+ | TEST Iter [1/10] Epoch [1/30]
+         [Time 5.385s] ToCPU: 3.229s| ToGPU: 0.063s| Forward: 2.022s| 
+         [ERR] n_err_mean: 2.816| 
+
+ | TEST Iter [2/10] Epoch [1/30]
+         [Time 5.066s] ToCPU: 3.160s| ToGPU: 0.078s| Forward: 1.417s| 
+         [ERR] n_err_mean: 7.550| 
+
+ | TEST Iter [3/10] Epoch [1/30]
+         [Time 5.264s] ToCPU: 3.416s| ToGPU: 0.057s| Forward: 1.429s| 
+         [ERR] n_err_mean: 7.905| 
+
+ | TEST Iter [4/10] Epoch [1/30]
+         [Time 6.986s] ToCPU: 4.542s| ToGPU: 0.077s| Forward: 1.994s| 
+         [ERR] n_err_mean: 6.162| 
+
+ | TEST Iter [5/10] Epoch [1/30]
+         [Time 6.163s] ToCPU: 4.278s| ToGPU: 0.059s| Forward: 1.417s| 
+         [ERR] n_err_mean: 7.325| 
+
+ | TEST Iter [6/10] Epoch [1/30]
+         [Time 5.764s] ToCPU: 4.021s| ToGPU: 0.056s| Forward: 1.287s| 
+         [ERR] n_err_mean: 8.602| 
+
+ | TEST Iter [7/10] Epoch [1/30]
+         [Time 5.633s] ToCPU: 3.824s| ToGPU: 0.058s| Forward: 1.383s| 
+         [ERR] n_err_mean: 15.852| 
+
+ | TEST Iter [8/10] Epoch [1/30]
+         [Time 4.692s] ToCPU: 3.011s| ToGPU: 0.058s| Forward: 1.258s| 
+         [ERR] n_err_mean: 7.123| 
+
+ | TEST Iter [9/10] Epoch [1/30]
+         [Time 4.796s] ToCPU: 2.993s| ToGPU: 0.058s| Forward: 1.381s| 
+         [ERR] n_err_mean: 7.249| 
+
+ | TEST Iter [10/10] Epoch [1/30]
+         [Time 4.691s] ToCPU: 2.912s| ToGPU: 0.058s| Forward: 1.365s| 
+         [ERR] n_err_mean: 13.332| 
+---------- TEST Epoch 1 Summary -----------
+         [ERR] n_err_mean: 8.392| 
